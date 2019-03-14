@@ -1,0 +1,7 @@
+  <screen name="wiffi_Setup2" position="center,center" size="860,660" title="wiffi2e2FS" >
+	<widget name="config" position="20,30" size="850,550" zPosition="0" scrollbarMode="showOnDemand" scrollbarWidth="6" backgroundColor="#000e0e09" foregroundColorSelected="#040600" backgroundColorSelected="#8B8682" transparent="0" />
+	<widget name="pic_red" pixmap="skin_default/buttons/key_red.png" position="20,600" size="40,25" backgroundColor="#000000" alphatest="blend" />
+    <widget name="pic_green" pixmap="skin_default/buttons/key_green.png" position="320,600" size="40,25" backgroundColor="#000000" alphatest="blend" />
+	<widget name="key_red" position="60,600" zPosition="1" size="230,25" font="Regular;18" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
+    <widget name="key_green" position="380,600" zPosition="1" size="230,25" font="Regular;18" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
+  </screen>
